@@ -1,4 +1,3 @@
-# Tarea02-Vivar-Guzman-Joyce
+# OUILookup - Network Card Manufacturer Finder
 
-## Integrantes
-- Joyce Vivar Guzman (joyce.vivar@alumnos.uv.cl)
+## Esta herramienta de línea de comandos desarrollada en Python permite consultar y obtener información sobre los fabricantes de tarjetas de red a través de direcciones MAC
